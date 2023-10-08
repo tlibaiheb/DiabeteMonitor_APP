@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "diabetes-cjem",
+  "private_key_id": "c7542b2e61633ac30f853b46c6c4e3c5e1fc6c8e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCkyQXRpR0cfg4y\nIjZzJBzcjRj8wW5eGgxLHnA7u/HbFQgxuBEOJMhJZaNTudNM4x2MJo6j31FCifkS\nHNn4IC9GPRo3Ag61tUzmi6zHYWfDxWatuXk10T7B5huzp1+g8mFVuwGmKuYhFcj+\nsvLceW87s8TzEIVY5iU5Xvbsux0bPvoeKYypm7LKKCkpe9hUkaBmWEFz6j8ybiaY\n53qqFa2pmozF9s9FBN/chEgEXIPDWOwtBOkdQ+Fpud2dPdD7520WSBdnXXTN29Cw\nqNFZ9F6achjhvoaOFuLjUNHFlyN6u1MiNjAWt+pVaLoRYChDX+ndLFuFqtfscKf2\nD8CjHkDBAgMBAAECggEACfDMhpCY2HqsPY79zOVdTlq+qqS6lTeqDTAJYjkcxnQW\n2fT6JmnGoVLdzvOzUPyUcDt1OGKE4ugy28pcxdCfOXP/LFlV7NVCjdfYNPDl0xQJ\n9Snuq3XzfLv2aNiMdseYYpUU7OLCnjVTujWuW+mBcc8O7wDMoofDsBnP+IjzIQ0L\nNCfCrcjP/Tza7xWhcpvoC8L442wRlno5CozDU8E+X1OA7mjSjYGgePIKKhAN6sYD\nZ6Ytu+qqsFn5KJDsXL7ClG8HLsWVa7eoz1I/9sZV2Idi6U90FUQ7UigOwXi69pvS\njRJJk4Dc0kL0YvaOv/uLoT4UVRieK7v4A++ogxnNCQKBgQDZonyDhjVJyZ8cWQfW\nvsSDAcfPeb7Eld5LMrsf3sAzO66+MlNcAKbDmYnNLpk8uIAAV9oy4cKhZDe+UUsh\nfGNrQ+TXSW6hXQOUo/xcKFmdkRZdbpU21P1QIIa7Ek1hrDqtyyaRlkwbX0QZI5B/\nm8g7vyA7CtUCZNZ2hy+yO6xNnQKBgQDB1YXOZ5XS5udBEtpYiFeUGypzLpcIWjPf\n4bvzrKLyWNHbVrCQrQdgHipsEJOWonhtljB7ftqqs1OYxTE1fjZx1N+qUwuYl+ry\nQ9bR6wl5M8Gf4oMx9HUxWP3EXYYkqYKcSBTKMOBXpYIOqGZbZurx5RVySJci2qOA\nVyoauQNodQKBgQDN/Rs5KbgaRPmSTTo8KYe6L989IxBK5UbnifbPLXhhhaXZY6y+\nseclz5c8W1SywjZ1HLHr4v7i3wZb3nnsEd3P0w0wL9LEbFNNRwE/APoBRygR+u7E\nXUf9pSuguKwBPJC1mkjBF66lYcAEw0KrZXlaA4awG4qNn3/V5BJi8lQdiQKBgGgb\nBW3RZr/KcoQZ2xnXyKnsWUVZzZaX0+q389mxbCcbm0Lh8Z0SwbZXHVPDJ3GtO18o\nXkvF2y35eLnBl2dyrU1AFw0E42KGnZKW6wb95K2rJaB46RvofxUNBeb0kDqarGLB\nuCDMVYHdi9fRjIAk66UV9AnYgQwgP9aLejq2CeWNAoGADsx0jFrcFU8RxMeoNNc1\nfjkLYfNOBKiMcinPUUVE5Lr6V1iEywgcNIpL6DeSE7Ise35cBwGCyUXj4MlARxO4\nIRrIVbmCgjoD9DLSVp/2Z7UW9XAsdm40PqZNnIECeURZs9iw7i4zepPLbSiQMSHO\nxwdDwP9Lg8Lze2j5pGIQESw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "chatbot@diabetes-cjem.iam.gserviceaccount.com",
+  "client_id": "105140975824126088833",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatbot%40diabetes-cjem.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
